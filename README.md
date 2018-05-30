@@ -1,23 +1,23 @@
 Introduction to 2D layouts in CSS Grid
 ====
 
-
 Krakow, 30.07.2018
 
 
 ### Motivation
-finally, 2d layouts are first-class citizen
-tricks vs support
-CSS Grid is well supported in new browsers
-CSS becomes production standard in couple years
+* finally, some real solution to 2d layouts 
+* tricks vs support
+* CSS Grid is well supported in new browsers
+* CSS will becomes production standard in couple years
 
 ### Questions:
-* how many folks does use flexbox?
+* How many folks does use flexbox?
 * who still uses float:left or inline block?
+* who uses CSS Grid on production?
 
 ### What we did previously?
-* <table> 
-* <div style="float:left"> 
+* table
+* float:left 
 * display: inline-block
 * column-count: 3;
 * calc(100% - 80px);
@@ -35,25 +35,25 @@ CSS becomes production standard in couple years
 * 1fr
 
 ### Naming things
+* tracks
+* areas
 
+### ordering and spanning elements
+* z-index
+* order
+* grid-column, grid-row
 
 ### Responsive example
-
-
-### ordering elements
-
-
-### spanning elements
-
+* @media (min-width:600px)
 
 ### auto features
 To be done!
 
-
-### Differennces
-
 ### Support
+* google: caniuse 
 
+### Questions?
+....
 
 ### About Me
 Cyprian Gepfert Codete/Avenade developer, boxing, chess, board games and guitar fan and frontend dependency hater :)
