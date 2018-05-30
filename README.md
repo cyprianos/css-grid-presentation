@@ -1,7 +1,7 @@
 Introduction to 2D layouts in CSS Grid
 ====
 
-Krakow, 30.07.2018
+Krakow, 30.05.2018
 
 https://github.com/cyprianos/css-grid-presentation
 
