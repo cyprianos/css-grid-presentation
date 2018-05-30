@@ -42,8 +42,9 @@ https://github.com/cyprianos/css-grid-presentation
 
 ### Naming things
 * https://codepen.io/anon/pen/PaoMYL?editors=1100
-* lines: grid-template-columns 200px [a-start] 400px [a-start]
+* lines: grid-template-columns 200px [a-start] 400px [a-end]
 * areas
+* areas: dot syntax for empty grid item
 
 ### ordering and spanning elements
 * z-index
@@ -54,7 +55,7 @@ https://github.com/cyprianos/css-grid-presentation
 * @media (min-width:600px)
 
 ### auto features
-To be done!
+* sparse
 
 ### Support
 * google: caniuse 
