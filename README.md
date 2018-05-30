@@ -15,7 +15,7 @@ Krakow, 30.07.2018
 * who still uses float:left or inline block?
 * who uses CSS Grid on production?
 
-### What we did previously?
+### What we have used?
 * table
 * float:left 
 * display: inline-block
@@ -31,11 +31,15 @@ Krakow, 30.07.2018
 * grid-template-columns:200px 400px 
 * grid-gap
 
+### Functions
+* repeat(3, 1fr) 200px
+* grid-template-columns: minmax(100px, max-content)
+
 ### Flexibility
 * 1fr
 
 ### Naming things
-* tracks
+* lines: grid-template-columns 200px [a-start] 400px [a-start]
 * areas
 
 ### ordering and spanning elements
@@ -52,9 +56,12 @@ To be done!
 ### Support
 * google: caniuse 
 
+
 ### Questions?
+* MDN
+* https://gridbyexample.com/examples/
+
 ....
 
 ### About Me
-Cyprian Gepfert Codete/Avenade developer, boxing, chess, board games and guitar fan and frontend dependency hater :)
-Learned html & JS basics from famous old-school Pawel Wimmer course, thanks to my cousin Marcin who showed me the path and my father who was worst client in my life but he gave me opportunity to work on his ugly webpage from late 1990s :)
+Cyprian Gepfert Codete/Avenade developer, boxing, chess, board games and guitar fan and frontend dependencies hater :)
