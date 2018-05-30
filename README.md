@@ -41,6 +41,7 @@ https://github.com/cyprianos/css-grid-presentation
 * 1fr
 
 ### Naming things
+* https://codepen.io/anon/pen/PaoMYL?editors=1100
 * lines: grid-template-columns 200px [a-start] 400px [a-start]
 * areas
 
