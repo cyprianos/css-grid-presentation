@@ -27,6 +27,7 @@ Krakow, 30.07.2018
 * flexbox
 
 ### Basic demo
+* https://codepen.io/cyprianos/pen/xzxQXg?editors=1100
 * display:grid
 * grid-template-columns:200px 400px 
 * grid-gap
